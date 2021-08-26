@@ -2,7 +2,16 @@
 //  LoginViewController.swift
 //  MediaTracker
 //
-//  Created by Gabriel Rosa on 18/08/21.
+//  Created by Gabriel Rosa on 26/08/21.
 //
 
-import Foundation
+import UIKit
+
+class LoginViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+}
